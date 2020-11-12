@@ -13,10 +13,10 @@ A dynamic electronic model deciphering the metabolic profiling of human embryoni
 ## 3D Plots
 3D-Visualization of Flux values: [Click here](https://samuel-bharti.github.io/PluriMetNet/)
 
-## Materials
+## Base
 
-Parent Model => Recon 2
-Construction Method => Elimination
-Env. => MATLAB
-Tool => COBRA Toolbox
+* Parent Model => Recon 2
+* Construction Method => Elimination
+* Env. => MATLAB
+* Tool => COBRA Toolbox
 
