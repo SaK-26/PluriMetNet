@@ -1,6 +1,8 @@
 # PluriMetNet
 A dynamic electronic model deciphering the metabolic profiling of human embryonic stem cells (hESCs) and its applications
 
+![Workflow](Figure1.jpg)
+ 
 ## DEFs
 
 * DIR:Reduction_schema || Supplementary 1: An excel sheet of model Specifications for reduction. (.XLSX)
