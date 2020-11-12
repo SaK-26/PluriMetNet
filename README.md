@@ -26,6 +26,6 @@ A dynamic electronic model deciphering the metabolic profiling of human embryoni
 
 ![Metabolic Effect](Metabolic_effect.jpg)
 
-## Flux Flow
+//## Flux Flow
 
-![Flux Flow](Flux_flow.jpg)
+//![Flux Flow](Flux_flow.jpg)
