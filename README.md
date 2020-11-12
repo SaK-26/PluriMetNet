@@ -23,9 +23,4 @@ A dynamic electronic model deciphering the metabolic profiling of human embryoni
 * Tool => COBRA Toolbox
 
 ## Metabolic Effect
-
 ![Metabolic Effect](Metabolic_effect.jpg)
-
-//## Flux Flow
-
-//![Flux Flow](Flux_flow.jpg)
