@@ -13,7 +13,7 @@ A dynamic electronic model deciphering the metabolic profiling of human embryoni
 *	DIR:Model_profile    || Supplementary 6: A list of reactions used with abbreviations and equations. (.PDF)
 
 ## 3D Plots
-3D-Visualization of Flux values: [Click here](https://samuel-bharti.github.io/PluriMetNet/)
+3D-Visualization of Flux values: [Click here](https://samuelbharti.github.io/PluriMetNet/)
 
 ## Base
 
